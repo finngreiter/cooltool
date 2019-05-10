@@ -1,0 +1,2 @@
+# cooltool
+Does random stuff.
